@@ -73,3 +73,7 @@ D:\ProgramPractice\C#\ExpenseTrack\ExpenseTracking\ExpenseTracking\obj\Debug\net
 D:\ProgramPractice\C#\ExpenseTrack\ExpenseTracking\ExpenseTracking\obj\Debug\net7.0\ExpenseTracking.pdb
 D:\ProgramPractice\C#\ExpenseTrack\ExpenseTracking\ExpenseTracking\obj\Debug\net7.0\ExpenseTracking.genruntimeconfig.cache
 D:\ProgramPractice\C#\ExpenseTrack\ExpenseTracking\ExpenseTracking\obj\Debug\net7.0\ref\ExpenseTracking.dll
+D:\ProgramPractice\C#\ExpenseTrack\ExpenseTracking\ExpenseTracking\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\ProgramPractice\C#\ExpenseTrack\ExpenseTracking\ExpenseTracking\bin\Debug\net7.0\Syncfusion.EJ2.dll
+D:\ProgramPractice\C#\ExpenseTrack\ExpenseTracking\ExpenseTracking\bin\Debug\net7.0\Syncfusion.Licensing.dll
+D:\ProgramPractice\C#\ExpenseTrack\ExpenseTracking\ExpenseTracking\obj\Debug\net7.0\ExpenseTracking.MvcApplicationPartsAssemblyInfo.cs
